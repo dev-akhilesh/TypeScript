@@ -1,2 +1,2 @@
 # TypeScript
-Learning TypeScript.
+Learning TypeScript
